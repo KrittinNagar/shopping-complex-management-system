@@ -1,1 +1,0 @@
-# shopping-complex-management-system
